@@ -1,6 +1,6 @@
 # RAG Chatbot
 
-This repository contains a Retrieval-Augmented Generation (RAG) chatbot that leverages large language models and a retrieval mechanism to generate more contextually relevant responses.
+This repository contains a Retrieval-Augmented Generation (RAG) News chatbot that leverages large language models and a retrieval mechanism to generate more contextually relevant responses.
 
 ## Features
 - Uses a vector database to store and retrieve relevant context.
@@ -9,9 +9,4 @@ This repository contains a Retrieval-Augmented Generation (RAG) chatbot that lev
 - Designed for scalability and customization.
 
 
-## Contributing
-Contributions are welcome! Feel free to submit issues or pull requests to improve the chatbot.
-
-## Contact
-For any questions or support, please reach out via GitHub issues.
 
